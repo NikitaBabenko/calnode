@@ -1,5 +1,11 @@
 # Calnode
 
+[![Deploy to VibeNest](https://vibenest.net/deploy-to-vibenest.svg)](https://vibenest.net/deploy?repo=https://github.com/NikitaBabenko/calnode)
+
+For persistent SQLite, HTTPS configuration and first-run setup, read
+[Deploy on VibeNest](DEPLOY_VIBENEST.md) before launching. Free-tier compatibility
+has not yet been verified; the button opens repository setup.
+
 **A lean, self-hostable scheduling engine that lives in your AI stack.**
 
 Calnode is a Calendly-style booking app — with **first-party video meetings,
